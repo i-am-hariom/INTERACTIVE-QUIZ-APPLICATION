@@ -18,4 +18,4 @@ A responsive and interactive quiz application built with HTML, CSS, and vanilla 
 
 # OUTPUT :-
 
-
+<img width="1916" height="929" alt="Image" src="https://github.com/user-attachments/assets/bc41e28c-92fe-4b94-914a-10bd2cfb7a7a" />
